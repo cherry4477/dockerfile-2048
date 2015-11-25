@@ -4,7 +4,7 @@ MAINTAINER yzhang3@linkernetworks.com
 ENV VERSION 1.0
 
 RUN apk update && \
-apk add supervisord && \
+apk add supervisor
 
 # Clean cache
 RUN rm -rf /var/cache/apk/*
