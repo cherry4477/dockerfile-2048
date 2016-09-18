@@ -43,5 +43,5 @@ Thanks to alpine, a lightweight linux distribution.
 Thanks to alexwhen/docker-2048 for base image.
 
 ## Contact
-Any problems,email me: zyfdegg@gmai
+Any problems,email me: zyfdegg@gmai.com
 
